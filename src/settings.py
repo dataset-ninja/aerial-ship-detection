@@ -24,7 +24,7 @@ APPLICATIONS: List[Union[Industry, Domain, Research]] = [
     Industry.Logistics(is_used=False),
     Industry.Shipping(is_used=False),
 ]
-CATEGORY: Category = Category.Aerial(extra=Category.Surveillance())
+CATEGORY: Category = Category.Aerial()
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
