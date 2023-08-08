@@ -9,4 +9,4 @@ If you make use of the Ship Detection from Aerial Images data, please cite the f
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/andrewmvd/ship-detection)
+[Source](https://www.kaggle.com/datasets/andrewmvd/ship-detection)
