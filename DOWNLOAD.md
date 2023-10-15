@@ -1,6 +1,6 @@
 Dataset **Ship Detection from Aerial Images** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/t/j/1A/4Wuy0EWN6qxaSmCBT6VZUfjEncBKZ9Tn4hMFhnK6dPVl9CBKcScr7tC6yjfaotalOhhqyku71S1n8TaYaqPggk6aQ7mnoyVq54ed9AXLee178raTOdM2Wjdv4IcR.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/R/u/2h/qd6wDRKFbuZPb3i8Y2RGXR0xkgcJwiHBbcVZN8sDKiYoyRL2hY9efp3LnnyETt03SuUACd2vfah8jFCS6XsRcr0EIUWxAmm4b0gNmbyivpR1tsqJF8gukcUjX4o5.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
